@@ -1,0 +1,34 @@
+8, 
+radii: 28,33
+params 35,24
+C0537.MP4_locatedFull20230309_matan.csv, C0537.MP4_locatedFull20230309_matan.csv_linked.csv
+
+10, 
+radii: 20,31
+params 35,24
+C0535.MP4_locatedFull20230309_matan.csv, C0535.MP4_locatedFull20230309_matan.csv_linked.csv
+
+11,
+radii: 18,32
+params: 35,24
+C0534.MP4_locatedFull20230309_matan.csv, C0534.MP4_locatedFull20230309_matan.csv_linked.csv
+
+13,
+radii 23,33
+params: 35,24
+C0532.MP4_locatedFull20230309_matan.csv, C0532.MP4_locatedFull20230309_matan.csv_linked.csv
+
+14,
+radii 23,33
+params: 35,24
+C0531.MP4_locatedFull20230309_matan.csv, C0531.MP4_locatedFull20230309_matan.csv_linked.csv
+
+16
+radii 23,33
+params: 35,24
+C0529.MP4_locatedFull20230309_matan.csv, C0529.MP4_locatedFull20230309_matan.csv_linked.csv
+
+19,
+radii: 43,51
+params: 35,24
+C0525.MP4_locatedFull20230309_matan.csv, C0525.MP4_locatedFull20230309_matan.csv_linked.csv

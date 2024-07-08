@@ -1,0 +1,8 @@
+date,operator,bottype,stars,bot_1_No,bot_2_No,bots,dress_diameter_bot_1,dress_diameter_bot_2,folder,path,LocatingFile,SecondDiameterLocatingFile,ThirdDiameterLocatingFile,BotLocatingFile,minCircleRadius,maxCircleRadius,startingVoltage,endingVoltage,fps,cpp,start_min,end_min,arenaSize[cm],comments,backedup,motorVal,production,linkingFileName,botLocatingFileName,botLinkingFileName,miniVideoFileNamePack,locatingFileNamePack,linkingFileNamePack
+20240508,Eden,fronter,,5,10,2,9.78,9.78,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0766.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,10,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0767.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,10,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0768.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,12,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0770.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,12,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0771.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,12,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0772.MP4,,,,,,,,,,,,,,,,,,,,,,,
+20240508,Eden,fronter,,5,12,,,,D:\Eden\dress_exp\7_5_24,D:\Eden\dress_exp\7_5_24\C0773.MP4,,,,,,,,,,,,,,,,,,,,,,,
